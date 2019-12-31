@@ -1,0 +1,35 @@
+{
+  "name": "wmine",
+  "version": "0.0.1",
+  "description": "cimp",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+    },
+  "main": "index.js",
+  "dependencies": {
+    "coin-imp": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tux2nux/vmine.git"
+  },
+  "engines": {
+    "node": ">=8.0",
+    "npm": ">=5.0"
+  },
+  "keywords": [
+    "coinhive",
+    "coinimp",
+    "monero",
+    "electroneum",
+    "xmr",
+    "etn",
+    "browsermining",
+    "crypto",
+    "cryptocurrency",
+    "cryptocurrencies",
+    "mining",
+    "miner"
+  ]
+}
